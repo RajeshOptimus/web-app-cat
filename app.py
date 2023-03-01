@@ -5,6 +5,7 @@ app = Flask(__name__)
 
 # list of cat images
 images = [
+    "https://tenor.com/view/walking-cock-cheater-good-morning-wake-up-gif-15509500"
     "https://media.tenor.com/images/043a3299edb9161b14a71b87afacf54f/tenor.gif",
     "https://media.tenor.com/images/ebb65bb0ca7bdd155c198a066ecfcb92/tenor.gif",
     "https://media.tenor.com/images/eff22afc2220e9df92a7aa2f53948f9f/tenor.gif",
